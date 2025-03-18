@@ -3,7 +3,13 @@
 # The final report is labeled: Final_Project_Report.pdf
 # The powerpoint used to illustrate these finding is labeled: Broad Jump vs Counter Movement Jump
 
-# Content for Visual3D 
+# Equipment used: 
+# - One force platform (1200 Hz, BP600600, AMTI)
+# - 3D motion analysis system (240 Hz, VICON)
+# - Visual3D (C-Motion, Inc.)
+# - Microsoft Office Excel
+
+# Content for Visual3D: 
 # - CMJ.rgt is the report
 # - Final_TY.cmz is the cmz file
 # - Script_TY.v3s is the script 

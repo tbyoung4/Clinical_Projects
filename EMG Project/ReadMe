@@ -1,1 +1,20 @@
-Project looking at EMG and force plate data 
+Project looking at EMG and force plate data to answer the question: 
+
+What is the relationship of the ensemble EMG signals muscle activation time histories of walking and running gait during the stance phase?
+
+The final report is labeled: EMG_Report_TY.pdf
+
+Equipment used: 
+- 16-channel wireless EMG system (Delsys, USA) 
+- One force platform (1200 Hz, BP600600, AMTI)
+- 3D motion analysis system (240 Hz, VICON)
+- Customized muscle testing chair 
+- Visual3D (C-Motion, Inc.)
+- Microsoft Office Excel
+
+Content for Visual3D: 
+- CMJ.rgt is the report (Can also be read by the 4 PNG files)
+- EMG_TY.v3s is the script 
+- Model.mdh is the model
+- Static.c3d is the static file the model was applied to 
+- The cmz file was too big to upload, but can be created by running the script

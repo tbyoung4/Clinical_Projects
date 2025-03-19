@@ -1,0 +1,7 @@
+# Data for this project is in this folder. S stands for Subject, C stands for Condition, and T stands for Trial
+
+# MVC stands for maximum voluntary contraction to the 4 lower extremity muscles listed below: 
+- Rectus Femoris (RF)
+- Biceps Femoris Long Head (BFLH) 
+- Medial Gastrocnemius (MG)
+- Tibialis Anterior (TA)

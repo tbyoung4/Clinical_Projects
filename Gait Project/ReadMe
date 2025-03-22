@@ -1,0 +1,16 @@
+# Here is a project that looks at biomechanical data for Walking vs Running
+
+# The final report is labeled: Walking_vs_Running_Report_TY.pdf
+
+# Equipment used: 
+# - One force platform (1200 Hz, BP600600, AMTI)
+# - 3D motion analysis system (240 Hz, VICON)
+# - Visual3D (C-Motion, Inc.)
+# - Microsoft Office Excel
+
+# Content for Visual3D: 
+# - Report.rgt is the report
+# - CMZ_TY.cmz is the cmz file
+# - Script_TY.v3s is the script 
+# - Model.mdh is the model
+# - Static03.c3d is the static file the model was applied to 

@@ -7,3 +7,4 @@ Biomechanical Projects using Vicon Cameras, AMTI Force plates, Nexus, and Visual
 # Folders 
 - Jumping Project
 - EMG Project
+- Gait Project

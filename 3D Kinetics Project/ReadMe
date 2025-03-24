@@ -1,0 +1,23 @@
+Project looking at force plate data to answer the question: 
+
+Are there biomechanical differences performed by the ankle and knee muscle groups, and COP in level walking and stair ascent movements?
+
+The final report is labeled: 3DKinetics_and_COP_TY.pdf
+
+Equipment used: 
+- Two force platform (1200 Hz, BP600600, AMTI)
+- Instrumented staircase (AMTI) and customized staircase
+- 3D motion analysis system (240 Hz, VICON)
+- Visual3D (C-Motion, Inc.)
+- Microsoft Office Excel
+
+Content for Visual3D: 
+- Walk_TY.rgt is the report for walking conditions (Can also be read by the 3 PNG files)
+- Walk_TY.v3s is the script for walking conditions
+- Walk.cmz is the cmz for the walking conditions 
+- Stair_TY.rgt is the report for stair conditions (Can also be read by the 3 PNG files)
+- Stair_TY.v3s is the script for stair conditions
+- Stair.cmz is the cmz for the stair conditions 
+- test model.mdh is the model
+- Static.c3d is the static file the model was applied to 
+- Workbook_TY.xlsx is where the tables were created 

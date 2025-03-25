@@ -1,0 +1,19 @@
+Project looking at force plate and loadsole data to answer the question: 
+
+Are there biomechanical differences in the loadsole plantar pressure related variables between walking and running force plate data?
+
+The final report is labeled: Plantar_Pressure_TY.pdf
+
+Equipment used: 
+- One force platform (1200 Hz, BP600600, AMTI)
+- One pair of plantar pressure insole system (Loadsol, 200 Hz)
+- 3D motion analysis system (240 Hz, VICON)
+- Visual3D (C-Motion, Inc.)
+- Microsoft Office Excel
+
+Content for Visual3D: 
+- PP_Script_TY.v3s is the script
+- PP_TY.cmz is the cmz
+- test model.mdh is the model
+- Static.c3d is the static file the model was applied to 
+- PP_TY.xlsm is where the tables were created (text data files also attached)

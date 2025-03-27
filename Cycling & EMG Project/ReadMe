@@ -14,9 +14,8 @@ Equipment used:
 - Microsoft Office Excel
 
 Content for Visual3D: 
-- Cycle_Muscles_TY.rgt is the report for cycle conditions (Can also be read by the 2 PNG files)
+- Cycle_Muscles_TY.rgt is the report for cycle conditions (Can also be read by the 2 PNG files - cmz too big)
 - Cycle_TY.v3s is the script for cycling conditions
-- Cycle_TY_Final.cmz is the cmz for the cycling conditions 
 - test model bike.mdh is the model
 - Static.c3d is the static file the model was applied to 
 - ROM and EMG.xlsx is where the tables were created 

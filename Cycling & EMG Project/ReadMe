@@ -1,0 +1,22 @@
+Project looking at EMG and force plate data with a cycle to answer the question: 
+
+Are there lower extremity biomechanical differences in the power phase of cycling?
+
+The final report is labeled: Cycle_EMG_TY.pdf
+
+Equipment used: 
+- 16-channel wireless EMG system (Delsys, USA)
+- Two force platform (1200 Hz, BP600600, AMTI)
+- Lode cycle ergometer and a pair of instrumented pedals
+- Customized muscle testing chair
+- 3D motion analysis system (240 Hz, VICON)
+- Visual3D (C-Motion, Inc.)
+- Microsoft Office Excel
+
+Content for Visual3D: 
+- Cycle_Muscles_TY.rgt is the report for cycle conditions (Can also be read by the 2 PNG files)
+- Cycle_TY.v3s is the script for cycling conditions
+- Cycle_TY_Final.cmz is the cmz for the cycling conditions 
+- test model bike.mdh is the model
+- Static.c3d is the static file the model was applied to 
+- ROM and EMG.xlsx is where the tables were created 

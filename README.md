@@ -10,3 +10,4 @@ Biomechanical Projects using Vicon Cameras, AMTI Force plates, Nexus, and Visual
 - Gait Project
 - 3D Kinetics Project
 - Plantar Pressure Project
+- Cycling & EMG Project

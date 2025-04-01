@@ -1,0 +1,20 @@
+Project looking at force plate data to answer the question: 
+
+Are there lower extremity biomechanical differences in the amount of range of motion in the hind-forefoot joint during walking and running?
+
+The final report is labeled: Multifoot_Model_TY.pdf
+
+Equipment used: 
+- Two force platform (1200 Hz, BP600600, AMTI)
+- Customized muscle testing chair
+- 3D motion analysis system (240 Hz, VICON)
+- Visual3D (C-Motion, Inc.)
+- Microsoft Office Excel
+
+Content for Visual3D: 
+- Report_TY.rgt is the report for gait conditions (Can also be read by the 2 PNG files)
+- Script_TY.v3s is the script for gait conditions
+- CMZ_TY.cmz is the cmz for gait conditions 
+- test model foot.mdh is the model
+- static.c3d is the static file the model was applied to 
+- Metrics.xlsx is where the tables were created 

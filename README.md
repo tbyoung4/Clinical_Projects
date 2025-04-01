@@ -11,3 +11,5 @@ Biomechanical Projects using Vicon Cameras, AMTI Force plates, Nexus, and Visual
 - 3D Kinetics Project
 - Plantar Pressure Project
 - Cycling & EMG Project
+- Isokinestic Performance
+- Multisegment Foot Model

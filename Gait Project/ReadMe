@@ -14,3 +14,6 @@
 # - Script_TY.v3s is the script 
 # - Model.mdh is the model
 # - Static03.c3d is the static file the model was applied to 
+
+# Ad hoc analysis using Google Colab: 
+# - Gait_GRF_Curves.ipynb
